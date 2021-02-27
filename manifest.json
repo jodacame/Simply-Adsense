@@ -24,7 +24,7 @@
     "scripts":["jquery.min.js","moment.min.js","app.js","background.js"]
   },
   "oauth2": {
-    "client_id": "1008257641717-rgnedflrlnpa8pus9cas5llh4t2uk9ru.apps.googleusercontent.com",
+    "client_id": "1000879439172-kj0n5oah1jn31f1lifc41j3jqhr2lucf.apps.googleusercontent.com",
     "scopes": [
       "https://www.googleapis.com/auth/adsense.readonly",
       "https://www.googleapis.com/auth/userinfo.profile",
